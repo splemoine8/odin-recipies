@@ -1,0 +1,31 @@
+body {
+	background-color: orange;
+	font-family: Tahoma;
+}
+
+h1 {
+	text-align: center;
+	font-size: 40px;
+}
+
+.banner {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 300px;
+	width: auto;
+}
+
+a {
+	font-size: 20px;
+}
+
+.feature {
+	background-color: brown;
+}
+
+.center {
+	text-align: center;
+	padding: 10px;
+	color: white;
+}
